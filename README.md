@@ -45,6 +45,4 @@
   </a>
 </p>
 
-------
-
-[BrantLauro](https://github.com/BrantLauro)
+<br>
