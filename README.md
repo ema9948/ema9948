@@ -1,4 +1,4 @@
-[![ProfileBanner](https://images4.alphacoders.com/130/1307940.png)
+[![ProfileBanner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFQ26UMX4pTGe6D_NnyCDCZs_wexiETNCk3cH4FqIG&s)
 
 <h1 align="center">Hola 👋, soy Cristian Albornoz</h1>
 <h3 align="center">Un programador full-Stack java y Angular</h3>
