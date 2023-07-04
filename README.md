@@ -1,4 +1,3 @@
-[![ProfileBanner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFQ26UMX4pTGe6D_NnyCDCZs_wexiETNCk3cH4FqIG&s)
 
 <h1 align="center">Hola 👋, soy Cristian Albornoz</h1>
 <h3 align="center">Un programador full-Stack java y Angular</h3>
@@ -24,14 +23,10 @@
 <p align="center"> 
     <img src="	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="html5" /> 
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="css3" />  
-      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-      " alt="css3" />
-      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-      " alt="css3" /> 
-     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
-      " alt="css3" />
-     <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink
-      " alt="css3" />
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="css3" />
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="css3" /> 
+     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="css3" />
+     <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" alt="css3" />
 
 </p>
 
