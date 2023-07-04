@@ -8,9 +8,9 @@
 - 🔭 Actualmente trabajo como Profesional Independiente.
 - 🌱 Soy Full-Stack dev.
 - 💬 Preguntame sobre **Spring Boot y Angular**
-- 📫 Podes contactarme **cristianalbornoz917@gmail.com**
+- 📫 Podés  contactarme **cristianalbornoz917@gmail.com**
 
-<h3 align="center">Podes contactarme por:</h3>
+<h3 align="center">Para contactarme:</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-albornoz-full-stack/)
@@ -21,8 +21,9 @@
 <h3 align="center">Lenguajes y tools:</h3>
 
 <p align="center"> 
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="css3" />  
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="css3" />  
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="html5" /> 
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="css3" />  
       <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="css3" />
       <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="css3" /> 
      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="css3" />
